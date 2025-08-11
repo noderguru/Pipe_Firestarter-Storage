@@ -1,4 +1,4 @@
-# Pipe_Firestarter-Storage
+# Pipe_Firestarter-Storage & firestarter🔥 role
 Установим базовые системные пакеты для сборки, Rust (если его нет или он старый), исходники и бинарник Pipe CLI из GitHub-репозитория PipeNetwork/pipe
 
 ```bash
@@ -26,14 +26,13 @@ pipe --version
 
 - Показывает отчёт токенов: pipe token-usage --period 30d --detailed.
 
+после запуска скрипта создаётся новый пользователь, вас попросит придумать пароль - просто нажмите Enter ❗️❗️❗️
 
-
-
-
-
-
-
-
+```bash
+curl -O https://raw.githubusercontent.com/noderguru/Pipe_Firestarter-Storage/main/pipe_firestarter_workflow.sh && chmod +x pipe_firestarter_workflow.sh && ./pipe_firestarter_workflow.sh
+```
+когда скрипт закончит работу в логах будет написано что делать дальше
+<img width="1173" height="354" alt="image" src="https://github.com/user-attachments/assets/5728d274-4609-4de8-92ce-3f2a89601a1c" />
 
 # Админ в ДС написал кто в будущем хочет получить роль OG -- firestarter🔥 обязательна!!!
 
