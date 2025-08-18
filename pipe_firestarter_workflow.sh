@@ -223,7 +223,7 @@ echo -e '   """Just launched my Pipe Firestarter node @pipenetwork #firestarter"
 echo -e "   ❗️❗️❗️ also attach screenshots from the console to the post ❗️❗️❗️"
 echo -e "   and include this Social media link (for sharing):"
 echo -e "   ${BLU}${SOCIAL_LINK:-N/A}${NC}"
-echo -e "3) Copy the link to your post, go to Discord → #❤️pipe-community-social❤️ and send it there."
+echo -e "3) Copy the link to your post, go to Discord → #🔥firestarter-storage-share and send it there."
 echo -e "   Moderators review posts manually; the role will be assigned later."
 echo -e ""
 if [[ -f "$CONFIG_FILE" ]]; then
